@@ -1,13 +1,17 @@
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 body {
-  background: #3b435b;
+  background: linear-gradient(180deg, #3b435b, #181818);
+  background-repeat: no-repeat;
+  height: 100vh;
   color: whitesmoke;
   margin: 0;
   padding: 0;
+  
 }
 a {
   color: whitesmoke;
