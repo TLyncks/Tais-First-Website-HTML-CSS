@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: #3b435b;
+  color: whitesmoke;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: whitesmoke;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  color: whitesmoke;
+  font-family: poppins;
+}
