@@ -13,6 +13,9 @@ body {
   padding: 0;
   
 }
+header {
+  background: linear-gradient(0deg, rgb(29, 29, 29), rgb(73, 73, 73))
+}
 a {
   color: whitesmoke;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
